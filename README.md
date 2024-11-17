@@ -1,4 +1,4 @@
-!-- TODO: Add class that explains all the tools you use -->
+<!-- TODO: Add class that explains all the tools you use -->
 
 <!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
