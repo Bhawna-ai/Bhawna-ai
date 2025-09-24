@@ -33,54 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawna-ai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-```python
-class Bhawna Sharma:
-   """A developer that love to learn more about Computer-Science and Technologies"""
-   
-   def __init__(self):
-     
-      self.name = "Bhawna Sharma"
-      self.role = "Student"
-
-      self.TOOLS = {
-          "ScriptingLanguages" : ("Python"),
-          "ProgrammingLanguages" : ("C", "C++"),
-          "MarkupLanguages" : ("HTML"),
-          "Editors" : ("VsCode", "DevC++"),
-          "Platform" : ("Windows","Linux"),
-         }
-
-      self.INTERESTS = [
-         "Computer Sciences",
-         "Artificial intelligence and Machine learning",
-         "Computer Networks and Networking",
-         ]
-
-   def use(self, tool):
-      """use one of my tools or use bunch of them."""
-      return self.tools[tool]
+### 🚀 Open Source Contributions
+- 🔗 [My GitHub Projects](https://github.com/Bhawna-ai?tab=repositories)
+- 🌱 Actively contributing to **Hacktoberfest** & other open-source repos
+- 📫 Reach me: bhawnasharma7555@gmail.com
 
 
-   def work(self):
-      """"""
-      while not WORK_DONE:
-         # keep work.
-         self.use(tool)
-
-      return WORK_DONE
-
-
-   def __len__(self):
-      """Fun Fact"""
-      return 2005 #y.o.b
-
-
-   def __repr__(self):
-      """"""
-      return f"{self.name} a developer and {self.role}"
-
-```
-<!-- to print thick horizontal line -->
----
-## Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=Bhawna-ai&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
