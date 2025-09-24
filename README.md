@@ -26,11 +26,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBhawna-ai&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
-
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FBhawna-ai&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
-<!-- to print thick horizontal line -->
----
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhawna-ai&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhawna-ai&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawna-ai&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ```python
 class Bhawna Sharma:
