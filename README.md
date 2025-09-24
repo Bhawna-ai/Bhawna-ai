@@ -14,11 +14,17 @@
 
 
 
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 💬 Ask me about **Python, Java , HTML, CSS , JS .**
-- 👨‍💻 All of my projects are available at [https://github.com/Bhawna-ai](https://github.com/Bhawna-ai)
-- 📫 How to reach me **bhawnasharma7555@gmail.com**
-- 🎒 Connect me in [Linkedin](https://www.linkedin.com/in/bhawna-sharma-172350329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBhawna-ai&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
 
