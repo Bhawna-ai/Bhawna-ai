@@ -43,3 +43,4 @@
 
 ### ⚡ Fun Fact
 I love solving DSA problems in Java and building projects that combine **logic + creativity** 🚀
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
