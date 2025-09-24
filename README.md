@@ -14,8 +14,7 @@
 I'm **`Bhawna Sharma`**. B.Tech Computer Science Engineering student from **India**.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 💬 Ask me about **Python, College life, Pop Culture & general programming stuffs.**
-- 🐍 I’m looking to collaborate on **Python** projects.
+- 💬 Ask me about **Python, Java , HTML, CSS , JS .**
 - 👨‍💻 All of my projects are available at [https://github.com/Bhawna-ai](https://github.com/Bhawna-ai)
 - 📫 How to reach me **bhawnasharma7555@gmail.com**
 - 🎒 Connect me in [Linkedin](https://www.linkedin.com/in/bhawna-sharma-172350329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
