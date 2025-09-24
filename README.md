@@ -41,3 +41,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Bhawna-ai&label=Profile%20Views&color=0e75b6&style=flat)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bhawna-ai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### ⚡ Fun Fact
+I love solving DSA problems in Java and building projects that combine **logic + creativity** 🚀
