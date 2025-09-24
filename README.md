@@ -2,16 +2,17 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhawna Sharma</h1>
+<h3 align="center">B.Tech CSE Student | Passionate about Open Source | Backend & AI Enthusiast</h3>
 
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2F81F7&center=true&vCenter=true&width=500&lines=Backend+Developer;Open+Source+Contributor;DSA+in+Java;Always+Learning+New+Things!" />
 </p>
+
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Bhawna Sharma`**. B.Tech Computer Science Engineering student from **India**.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
 - 💬 Ask me about **Python, Java , HTML, CSS , JS .**
