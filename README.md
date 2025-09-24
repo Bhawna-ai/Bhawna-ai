@@ -38,4 +38,6 @@
 - 🌱 Actively contributing to **Hacktoberfest** & other open-source repos
 - 📫 Reach me: bhawnasharma7555@gmail.com
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Bhawna-ai&label=Profile%20Views&color=0e75b6&style=flat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhawna-ai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
