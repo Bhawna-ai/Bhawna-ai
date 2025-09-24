@@ -29,7 +29,10 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhawna-ai&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhawna-ai&theme=radical" alt="GitHub Streak" />
+</p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawna-ai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
