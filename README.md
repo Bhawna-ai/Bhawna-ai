@@ -3,7 +3,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
 <h1 align="center">Hi 👋, I'm Bhawna Sharma</h1>
-<h3 align="center">B.Tech CSE Student | Passionate about Open Source </h3>
+
 
 
 
