@@ -3,10 +3,10 @@
 <!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
 <h1 align="center">Hi 👋, I'm Bhawna Sharma</h1>
-<h3 align="center">B.Tech CSE Student | Passionate about Open Source | Backend & AI Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Passionate about Open Source </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2F81F7&center=true&vCenter=true&width=500&lines=Backend+Developer;Open+Source+Contributor;DSA+in+Java;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2F81F7&center=true&vCenter=true&width=500&lines;Open+Source+Contributor;;Always+Learning+New+Things!" />
 </p>
 
 
